@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <name>
+        Monobank
+    </name>
+    <settings>
+        <variable>monobank_api_token</variable>
+        <name>{$lang->sviat__monobank__api_token}</name>
+    </settings>
+</module>
