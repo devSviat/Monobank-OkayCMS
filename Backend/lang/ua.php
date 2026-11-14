@@ -20,7 +20,7 @@ $lang['sviat__monobank__basket_lang_hint']  = 'Цією мовою покупе�
 $lang['sviat__monobank__basket_lang_order'] = 'Мова, якою оформлено замовлення';
 
 $lang['sviat__monobank__sku']      = 'Код товару';
-$lang['sviat__monobank__sku_hint'] = 'Властивість з кодом товару для чека. Якщо не вибрати, в чек піде артикул варіанта, а без артикула номер варіанта.';
+$lang['sviat__monobank__sku_hint'] = 'Властивість з кодом товару для чека. Якщо не вибрати, в чек піде артикул варіанта, а без артикула — номер варіанта.';
 
 $lang['sviat__monobank__barcode']      = 'Штрих-код';
 $lang['sviat__monobank__barcode_hint'] = 'Властивість зі штрих-кодом товару.';
